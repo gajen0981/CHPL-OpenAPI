@@ -23,9 +23,8 @@
 						<p>List all records</p>
 						<p><pre><a target="_blank" href="http://localhost:8888/chpl/web/api?_format=json">http://localhost:8888/chpl/web/api?_format=json</a></pre></p>
 						
-						
 						<p>List all records but specific attributes</p>
-						<p><pre><a arget="_blank" href="http://localhost:8888/chpl/web/api?_format=json&fields=STG_Certification_Certification_ID, Certification_Edition_Year">http://localhost:8888/chpl/web/api?_format=json&fields=STG_Certification_Certification_ID, Certification_Edition_Year</a></pre></p>						
+						<p><pre><a target="_blank" href="http://localhost:8888/chpl/web/api?_format=json&fields=STG_Certification_Certification_ID, Certification_Edition_Year">http://localhost:8888/chpl/web/api?_format=json&fields=STG_Certification_Certification_ID, Certification_Edition_Year</a></pre></p>						
 					</div>
 				</div>
             </div>
@@ -36,8 +35,8 @@
 						<h3 class="panel-title">OpenAPI - XML</h3>
 					</div>
 					<div class="panel-body">
-						<a class="btn btn-lg btn-success" target="_blank" href="http://localhost:8888/chpl/web/api?_format=xml">XML</a>
-						<p><pre>http://localhost:8888/chpl/web/api?_format=json</pre></p>
+						<p>List all records</p>
+						<p><pre><a target="_blank" href="http://localhost:8888/chpl/web/api?_format=xml">http://localhost:8888/chpl/web/api?_format=xml</a></pre></p>						
 					</div>
 				</div>
             </div>
