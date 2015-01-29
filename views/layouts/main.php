@@ -17,7 +17,7 @@ AppAsset::register($this);
     <meta charset="<?= Yii::$app->charset ?>"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <?= Html::csrfMetaTags() ?>
-    <title><?= Html::encode($this->title) ?></title>
+    <title>CHPL - OpenAPI</title>
     <?php $this->head() ?>
 </head>
 <body>
@@ -36,10 +36,8 @@ AppAsset::register($this);
                 'options' => ['class' => 'navbar-nav navbar-right'],
                 'items' => [
                     ['label' => 'Home', 'url' => ['/site/index']],
-                    /*
-						['label' => 'About', 'url' => ['/site/about']],
-						['label' => 'Contact', 'url' => ['/site/contact']],
-					*/
+						['label' => 'CHPL', 'url' => ['/chpl/']],
+					/*	['label' => 'Contact', 'url' => ['/site/contact']], */
                     Yii::$app->user->isGuest ?
                         ['label' => 'Login', 'url' => ['/site/login']] :
                         ['label' => 'Logout (' . Yii::$app->user->identity->username . ')',

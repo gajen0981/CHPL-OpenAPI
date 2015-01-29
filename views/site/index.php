@@ -7,7 +7,7 @@ $this->title = 'My Yii Application';
     <div class="jumbotron">
         <h1>CHPL OpenAPI!</h1>
         <p class="lead"></p>
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">CHPL</a></p>
+        <p><a class="btn btn-lg btn-success" href="chpl/">CHPL</a></p>
     </div>
 
     <div class="body-content">
