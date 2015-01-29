@@ -53,6 +53,6 @@ return [
 ];
 ```
 
-Help
-----
+Contact Author
+--------------
 gajen.sunthara@post.harvard.edu
