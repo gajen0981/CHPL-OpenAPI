@@ -30,13 +30,13 @@ WHAT
 ### Update
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/6.png)
 
-### RESTful API of all available records from the DB in JSON format
+### RESTful API of all records - JSON
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/7.png)
 
-### RESTful API of all available records but display specific fields only from the DB in JSON format
+### RESTful API of all records but display specific fields - JSON
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/8.png)
 
-### RESTful API of all available records from the DB in XML format
+### RESTful API of all records from the DB - XML
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/9.png)
 
 
