@@ -13,34 +13,28 @@ WHAT
 ### Home - with examples of RESTful Open API
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/1.png)
 
-
 ### Mobile Friendly
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/2.png)
 
-
-### Home
+### RDBMS CRUD Maintenance / Search & Filter
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/3.png)
 
-### Home
+### Create
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/4.png)
 
-
-### Home
+### View
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/5.png)
 
-
-### Home
+### Update
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/6.png)
 
-
-### Home
+### RESTful API of all available records from the DB in JSON 
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/7.png)
 
-
-### Home
+### RESTful API of all available records but display specific fields only from the DB in JSON 
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/8.png)
 
-### Home
+### RESTful API of all available records from the DB in XML 
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/9.png)
 
 
