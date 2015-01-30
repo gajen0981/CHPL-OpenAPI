@@ -66,7 +66,12 @@ REQUIREMENTS
 INSTALLATION
 ------------
 
-Install the application by moving into a web server and connect the database where the CHPL is. 
+Install the application by moving into a web server and connect the wire database where the CHPL schema is located. 
+Test database schema is located in the following directory and import it into RDBMS
+
+```php
+config/chpl.sql
+```
 
 Application can be access via the following URI
 http://localhost/basic/web/
