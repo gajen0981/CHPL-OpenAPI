@@ -1,22 +1,24 @@
 Certified Health Product List (CHPL) OpenAPI 
 ============================================
 
-This web application design to provide the HHS/ONC CHPL data set into a Open API standards as JSON/XML
+This web application provides U.S. HHS/ONC CHPL data set into a Open API standards as JSON/XML
 
 WHY
 ---
+
 Open API of instead of Excel file export of all records.
 
 
 WHAT
 ----
-### Home - with examples of RESTful Open API
+
+### Examples of RESTful Open API's
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/1.png)
 
 ### Mobile Friendly
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/2.png)
 
-### RDBMS CRUD Maintenance / Search & Filter
+### RDBMS CRUD Functionality / Search & Filter
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/3.png)
 
 ### Create
@@ -28,13 +30,13 @@ WHAT
 ### Update
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/6.png)
 
-### RESTful API of all available records from the DB in JSON 
+### RESTful API of all available records from the DB in JSON format
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/7.png)
 
-### RESTful API of all available records but display specific fields only from the DB in JSON 
+### RESTful API of all available records but display specific fields only from the DB in JSON format
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/8.png)
 
-### RESTful API of all available records from the DB in XML 
+### RESTful API of all available records from the DB in XML format
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/9.png)
 
 
@@ -89,4 +91,5 @@ return [
 
 Contact Author
 --------------
+
 gajen.sunthara@post.harvard.edu
