@@ -1,16 +1,17 @@
 <?php
-use yii\helpers\Html;
-use yii\bootstrap\Nav;
-use yii\bootstrap\NavBar;
-use yii\widgets\Breadcrumbs;
-use app\assets\AppAsset;
-
-/* @var $this \yii\web\View */
-/* @var $content string */
-
-AppAsset::register($this);
+	use yii\helpers\Html;
+	use yii\helpers\Url;
+	use yii\bootstrap\Nav;
+	use yii\bootstrap\NavBar;
+	use yii\widgets\Breadcrumbs;
+	use app\assets\AppAsset;
+	
+	/* @var $this \yii\web\View */
+	/* @var $content string */
+	
+	AppAsset::register($this);
+	$this->beginPage() 
 ?>
-<?php $this->beginPage() ?>
 <!DOCTYPE html>
 <html lang="<?= Yii::$app->language ?>">
 <head>
@@ -25,6 +26,7 @@ AppAsset::register($this);
 <?php $this->beginBody() ?>
     <div class="wrap">
         <?php
+/*
             NavBar::begin([
                 'brandLabel' => 'CHPL OpenAPI',
                 'brandUrl' => Yii::$app->homeUrl,
@@ -32,6 +34,16 @@ AppAsset::register($this);
                     'class' => 'navbar-inverse navbar-fixed-top',
                 ],
             ]);
+*/
+            
+            NavBar::begin([
+                'brandLabel' => Html::decode("<img height='40px' width='85px' style='max-width:100px; margin-top: -7px;' src='" . Url::toRoute('/images/healthitgov-logo.png') . "'/> <a href='" .  Yii::$app->homeUrl . "' class='navbar-brand'>". Yii::$app->params['appName'] ."</a>"),
+                'brandUrl' => Yii::$app->homeUrl,
+                'options' => [
+                    'class' => 'navbar-inverse navbar-fixed-top',
+                ],
+            ]);
+            
             echo Nav::widget([
                 'options' => ['class' => 'navbar-nav navbar-right'],
                 'items' => [
@@ -56,10 +68,10 @@ AppAsset::register($this);
         </div>
     </div>
 
-    <footer class="footer">
+     <footer class="footer">
         <div class="container">
-            <p class="pull-left">&copy; CHPL OpenAPI <?= date('Y') ?></p>
-            <p class="pull-right">U.S. HHS / ONC</p>
+        <p class="pull-left">&copy; <?= Yii::$app->params['appName'] . " " . date('Y') ?></p>
+        <p class="pull-right"><?= Yii::$app->params['footerRight'] ?></p>
         </div>
     </footer>
 

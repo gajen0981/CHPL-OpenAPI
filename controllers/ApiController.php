@@ -9,3 +9,4 @@ class ApiController extends ActiveController
 {
     public $modelClass = 'app\models\Chpl';
 }
+

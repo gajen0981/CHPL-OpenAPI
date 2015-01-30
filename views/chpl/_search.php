@@ -37,99 +37,99 @@ use yii\widgets\ActiveForm;
 
     <?php // echo $form->field($model, 'Certification_Date') ?>
 
-    <?php // echo $form->field($model, '170302a_Drugdrug_drugallergy')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302a_Drugdrug_drugallergy')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302b_Drug_formulary_checks')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302b_Drug_formulary_checks')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302c_Maintain_uptodate_prob')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302c_Maintain_uptodate_prob')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302d_Maintain_active_med_list')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302d_Maintain_active_med_list')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302e_Maintain_active_allergy_list')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302e_Maintain_active_allergy_list')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302f_Record_and_Chart_Vital_Signs')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302f_Record_and_Chart_Vital_Signs')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302f1_Record_and_Chart_Vital')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302f1_Record_and_Chart_Vital')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302f2_Calculate_BMI')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302f2_Calculate_BMI')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302f3_Plot_and_display_growth')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302f3_Plot_and_display_growth')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302g_Smoking_status')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302g_Smoking_status')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302h_Incorporate_lab_test_results')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302h_Incorporate_lab_test_results')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302i_Generate_patient_lists')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302i_Generate_patient_lists')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302j_Medication_Reconciliation')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302j_Medication_Reconciliation')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302k_Submission_to_immun')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302k_Submission_to_immun')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302l_Public_Health_Surveillance')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302l_Public_Health_Surveillance')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302m_Patient_Specific_Education')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302m_Patient_Specific_Education')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302n_Automated_measure_calc')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302n_Automated_measure_calc')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302o_Access_Control')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302o_Access_Control')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302p_Emergency_Access')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302p_Emergency_Access')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302q_Automatic_logoff')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302q_Automatic_logoff')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302r_Audit_Log')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302r_Audit_Log')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302s_Integrity')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302s_Integrity')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302t_Authentication')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302t_Authentication')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302u_General_Encryption')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302u_General_Encryption')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302v_Encryption_when_exchanging')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302v_Encryption_when_exchanging')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170302w_Accounting_of_disclosures')->checkbox() ?>
+    <?php // echo $form->field($model, '_170302w_Accounting_of_disclosures')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170304a_Computerized_provider_OE')->checkbox() ?>
+    <?php // echo $form->field($model, '_170304a_Computerized_provider_OE')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170304b_Electronic_Prescribing')->checkbox() ?>
+    <?php // echo $form->field($model, '_170304b_Electronic_Prescribing')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170304c_Record_Demographics')->checkbox() ?>
+    <?php // echo $form->field($model, '_170304c_Record_Demographics')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170304d_Patient_Reminders')->checkbox() ?>
+    <?php // echo $form->field($model, '_170304d_Patient_Reminders')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170304e_Clinical_Decision_Support')->checkbox() ?>
+    <?php // echo $form->field($model, '_170304e_Clinical_Decision_Support')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170304f_Electronic_Copy_of_Health')->checkbox() ?>
+    <?php // echo $form->field($model, '_170304f_Electronic_Copy_of_Health')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170304g_Timely_Access')->checkbox() ?>
+    <?php // echo $form->field($model, '_170304g_Timely_Access')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170304h_Clinical_Summaries')->checkbox() ?>
+    <?php // echo $form->field($model, '_170304h_Clinical_Summaries')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170304i_Exchange_Clinical_Info')->checkbox() ?>
+    <?php // echo $form->field($model, '_170304i_Exchange_Clinical_Info')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170304j_Calculate_and_Submit_Clinical')->checkbox() ?>
+    <?php // echo $form->field($model, '_170304j_Calculate_and_Submit_Clinical')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306a_Computerized_Provider_OE')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306a_Computerized_Provider_OE')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306b_Record_Demographics')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306b_Record_Demographics')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306c_Clinical_Decision_Support')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306c_Clinical_Decision_Support')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306d_Electronic_copy_of_Health_Inf')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306d_Electronic_copy_of_Health_Inf')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306d1_Electronic_copy_of_health')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306d1_Electronic_copy_of_health')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306d2_Ecopy_of_health_info')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306d2_Ecopy_of_health_info')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306e_Electronic_copy_of_discharge')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306e_Electronic_copy_of_discharge')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306f_Exchange_Clinical_Info')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306f_Exchange_Clinical_Info')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306g_Reportable_Lab_Results')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306g_Reportable_Lab_Results')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306h_Advance_Directives')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306h_Advance_Directives')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170306i_Calculate_and_Submit_Clinical')->checkbox() ?>
+    <?php // echo $form->field($model, '_170306i_Calculate_and_Submit_Clinical')->checkbox() ?>
 
     <?php // echo $form->field($model, 'NQF_0001A_Asthma_Assessment')->checkbox() ?>
 
@@ -249,77 +249,77 @@ use yii\widgets\ActiveForm;
 
     <?php // echo $form->field($model, 'NQF_0575A_Diabetes_Hemoglobin_A1c')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a1_Computerized_provider_OE')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a1_Computerized_provider_OE')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a2_Drugdrug_drugallergy')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a2_Drugdrug_drugallergy')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a3_Demographics')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a3_Demographics')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a4_Vital_signs_body_mass_ind')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a4_Vital_signs_body_mass_ind')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a5_Problem_List')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a5_Problem_List')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a6_Medication_List')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a6_Medication_List')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a7_Medication_Allergy_List')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a7_Medication_Allergy_List')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a8_Clinical_Decision_Support')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a8_Clinical_Decision_Support')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a9_Electronic_Notes')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a9_Electronic_Notes')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a10_DrugFormulary_Checks')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a10_DrugFormulary_Checks')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a11_Smoking_Status')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a11_Smoking_Status')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a12_Image_Results')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a12_Image_Results')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a13_Family_Health_History')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a13_Family_Health_History')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a14_Patient_List_Creation')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a14_Patient_List_Creation')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a15_PatientSpecific_Educatio')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a15_PatientSpecific_Educatio')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a16_Electronic_Medication_Adm')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a16_Electronic_Medication_Adm')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314a17_Advance_Directives')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314a17_Advance_Directives')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314b1_Transitions_of_Care_rece')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314b1_Transitions_of_Care_rece')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314b2_Transitions_of_Care_crea')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314b2_Transitions_of_Care_crea')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314b3_Electronic_Prescribing')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314b3_Electronic_Prescribing')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314b4_Clinical_Information_Recon')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314b4_Clinical_Information_Recon')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314b5_Incorporate_Laboratory_Tes')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314b5_Incorporate_Laboratory_Tes')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314b6_Transmission_of_Electronic')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314b6_Transmission_of_Electronic')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314b7_Data_Portability')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314b7_Data_Portability')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314c1_Clinical_Quality_Measures')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314c1_Clinical_Quality_Measures')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314c2_Clinical_Quality_Measures')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314c2_Clinical_Quality_Measures')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314c3_Clinical_Quality_Measures')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314c3_Clinical_Quality_Measures')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314d1_Authentication_access_con')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314d1_Authentication_access_con')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314d2_Auditable_Events_and_Tampe')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314d2_Auditable_Events_and_Tampe')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314d3_Audit_Reports')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314d3_Audit_Reports')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314d4_Amendments')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314d4_Amendments')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314d5_Automatic_logoff')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314d5_Automatic_logoff')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314d6_Emergency_access')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314d6_Emergency_access')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314d7_EndUser_Device_Encryption')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314d7_EndUser_Device_Encryption')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314d8_Integrity')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314d8_Integrity')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314d9_Accounting_of_Disclosures')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314d9_Accounting_of_Disclosures')->checkbox() ?>
 
     <?php // echo $form->field($model, 'GGG_170314e1_View_Download_and_Transm')->checkbox() ?>
 
@@ -327,25 +327,25 @@ use yii\widgets\ActiveForm;
 
     <?php // echo $form->field($model, 'GGG_170314e3_Secure_Messaging')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314f1_Immunization_Information')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314f1_Immunization_Information')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314f2_Transmission_to_Immunizati')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314f2_Transmission_to_Immunizati')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314f3_Transmission_to_Public_Hea')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314f3_Transmission_to_Public_Hea')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314f4_Transmission_of_Reportable')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314f4_Transmission_of_Reportable')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314f5_Cancer_Case_Information')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314f5_Cancer_Case_Information')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314f6_Transmission_to_Cancer_Reg')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314f6_Transmission_to_Cancer_Reg')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314g1_Automated_Numerator_Record')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314g1_Automated_Numerator_Record')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314g2_Automated_Measure_Calculat')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314g2_Automated_Measure_Calculat')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314g3_SafetyEnhanced_Design')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314g3_SafetyEnhanced_Design')->checkbox() ?>
 
-    <?php // echo $form->field($model, '170314g4_Quality_Management_System')->checkbox() ?>
+    <?php // echo $form->field($model, '_170314g4_Quality_Management_System')->checkbox() ?>
 
     <?php // echo $form->field($model, 'CMS100_AMI_2_Aspirin_Prescribed_at_Dis') ?>
 
