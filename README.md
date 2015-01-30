@@ -1,46 +1,46 @@
 Certified Health Product List (CHPL) OpenAPI 
 ============================================
 
-This application design to provide the HHS/ONC open data for CHPL into a Open API standards as JSON/XML
+This web application design to provide the HHS/ONC CHPL data set into a Open API standards as JSON/XML
 
 WHY
 ---
-Open API of instead of Excel file export
+Open API of instead of Excel file export of all records.
 
 
 WHAT
 ----
-Home
+### Home - with examples of RESTful Open API
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/1.png)
 
 
-Home
+### Mobile Friendly
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/2.png)
 
 
-Home
+### Home
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/3.png)
 
-Home
+### Home
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/4.png)
 
 
-Home
+### Home
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/5.png)
 
 
-Home
+### Home
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/6.png)
 
 
-Home
+### Home
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/7.png)
 
 
-Home
+### Home
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/8.png)
 
-Home
+### Home
 ![alt tag](https://github.com/gajen0981/CHPL-OpenAPI/blob/master/docs/9.png)
 
 
