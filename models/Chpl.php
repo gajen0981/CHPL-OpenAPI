@@ -566,7 +566,7 @@ class Chpl extends \yii\db\ActiveRecord
             'CMS90_Functional_status_assessment_for' => 'Cms90  Functional Status Assessment For',
             'CMS91_Stroke_4_Ischemic_stroke_Throm' => 'Cms91  Stroke 4  Ischemic Stroke  Throm',
             'CMS9V1_Exclusive_Breast_Milk_Feeding' => 'Cms9 V1  Exclusive  Breast  Milk  Feeding',
-            'Certifying_ATCB' => 'Certifying  Atcb',
+            'Certifying_ATCB' => 'ACB',
         ];
     }
 }

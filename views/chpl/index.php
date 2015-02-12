@@ -29,6 +29,7 @@ $this->params['breadcrumbs'][] = $this->title;
             'Certification_Edition_Year',
             //'Published:boolean',
             'ATCB_Certification_ID',
+            'Certifying_ATCB',
             'Practice_Setting',
             // 'Product_Classification',
             // 'Product',
